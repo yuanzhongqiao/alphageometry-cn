@@ -2,12 +2,10 @@
 # 无需人类演示即可解决奥林匹克几何问题
 
 
-This repository contains the code necessary to
-reproduce DDAR and AlphaGeometry,
-the two geometry theorem provers
+该存储库包含重现 DDAR 和 AlphaGeometry 所需的代码，这两个几何定理证明器在论文
 introduced in the [Nature 2024](https://www.nature.com/articles/s41586-023-06747-5) paper:
 
-*<center>"Solving Olympiad Geometry without Human Demonstrations".</center>*
+*<center>"无需人类演示即可解决奥林匹克几何问题".</center>*
 
 
 </br>
